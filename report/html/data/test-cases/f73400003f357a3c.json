@@ -1,0 +1,60 @@
+{
+  "uid" : "f73400003f357a3c",
+  "name" : "TestAbc.test_abc",
+  "fullName" : "scripts.test_contact.TestAbc.test_abc",
+  "historyId" : "bdadebd9fb0f675a48ca0c617a163c52",
+  "time" : {
+    "start" : 1552014682243,
+    "stop" : 1552014682248,
+    "duration" : 5
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "4840-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAbc.test_abc"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f73400003f357a3c.json",
+  "parameterValues" : [ ]
+}

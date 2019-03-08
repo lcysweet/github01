@@ -1,0 +1,66 @@
+{
+  "uid" : "ee827e78c3b80654",
+  "name" : "TestAbc.test_abc1",
+  "fullName" : "scripts.test_contact.TestAbc.test_abc1",
+  "historyId" : "6550501f39b4f7effddff4460dbef521",
+  "time" : {
+    "start" : 1552014682250,
+    "stop" : 1552014682313,
+    "duration" : 63
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 0",
+  "statusTrace" : "self = <scripts.test_contact.TestAbc object at 0x00000203DACB2128>\n\n    def test_abc1(self):\n>       assert 0\nE       assert 0\n\nscripts\\test_contact.py:9: AssertionError",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "MSI"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "4840-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestAbc.test_abc1"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_contact"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "ee827e78c3b80654.json",
+  "parameterValues" : [ ]
+}

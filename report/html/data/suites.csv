@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_contact.TestAbc.test_abc","5",""
+"failed","scripts.test_contact.TestAbc.test_abc1","63",""

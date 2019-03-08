@@ -1,0 +1,21 @@
+[ {
+  "uid" : "f73400003f357a3c",
+  "name" : "TestAbc.test_abc",
+  "time" : {
+    "start" : 1552014682243,
+    "stop" : 1552014682248,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ee827e78c3b80654",
+  "name" : "TestAbc.test_abc1",
+  "time" : {
+    "start" : 1552014682250,
+    "stop" : 1552014682313,
+    "duration" : 63
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]
